@@ -1,3 +1,6 @@
+(NOTE BEFORE USE) : It is prone to not open alot of the times
+
+
 📸 ZLogger4.7 Discord Image Logger 🤖
 
 ZLogger4.7, the pinnacle of image logging sophistication, goes beyond by offering advanced features for ultimate control.
