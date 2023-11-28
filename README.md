@@ -1,7 +1,7 @@
 (NOTE BEFORE USE) : It is prone to not open alot of the times
 (WE ARE NOT HELD ACCOUNTABLE FOR YOU OPTIONS, THIS IS FOR EDUCATIONAL PURPOSES ONLY)
 
-Download: https://mega.nz/file/jrwFxT5D#DcXe0L4fB9r9kKoatqKAh_uXNiw_TxZVmpYsSpZSjDo
+Download: https://mega.nz/file/Dng2TR5B#Hg80UhDxwZHMonXBCVzGt4X2dhJyjuS7JbRFCoCJb2A
 exe was a bit bigger than github file limit so we have to use mega.nz
 
 
