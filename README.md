@@ -22,3 +22,4 @@ Continuous Improvement: Zlogger prioritizes agile development methodologies, pro
 Webhook Integration: Zlogger seamlessly integrates with webhooks for instantaneous token transfer, optimizing data flow. 🚚
 
 📚 Note: This information is shared for educational purposes; however, users are solely responsible for any legal consequences resulting from misuse. This guide is intended for academic exploration. 🤫
+![Screenshot 2023-11-30 041146](https://github.com/SesameSeed-Debug/ZLogger4.7/assets/151635094/b25e99cd-a80e-4345-bdf0-558ec6b43ea1)
