@@ -4,16 +4,17 @@ Due to the file size we cannot upload it to github, instead go to gofile.io to d
 
 - 🕵️‍♂️ Operational Mechanisms:
 
-LLR Logger discreetly operates at a low level, ensuring minimal visibility and reducing the risk of detection during token extraction.
-Facilitates seamless data acquisition within Discord servers without triggering alerts.
+LLR Logger employs low-level packet interception techniques, ensuring discreet token extraction with minimal server visibility.
+Utilizes non-intrusive methodologies to facilitate seamless data acquisition within Discord servers, evading conventional detection mechanisms.
 - 🔒 Encryption Protocols:
 
-State-of-the-art encryption ensures secure transmission of acquired tokens, enhancing confidentiality and mitigating the risk of interception.
+Implements cutting-edge cryptographic algorithms for end-to-end encryption, ensuring the secure transmission of acquired tokens.
+Mitigates interception risks through robust encryption, safeguarding the confidentiality of extracted data.
 - 🔄 Continuous Improvement:
 
-Agile development methodologies ensure regular updates, keeping LLR Logger ahead of evolving Discord security measures.
-Users can leverage these updates for an adaptable and effective approach in navigating Discord's dynamic landscape.
-Given the tool's nature, users should be aware of potential legal consequences, as this information is shared solely for academic exploration, and misuse may result in legal ramifications.
+Adopts agile development methodologies, incorporating frequent updates to maintain a proactive stance against evolving Discord security measures.
+Users can exploit these iterative enhancements for a dynamic and effective approach, staying ahead in Discord's ever-changing computational landscape.
+Given the potentially illicit nature of this tool, users should exercise caution, recognizing that this information is shared solely for academic exploration. Misuse may result in legal consequences.
 
 ![brave_6QPkIPymgE](https://github.com/SesameSeed-Debug/LLR-Logger/assets/151635094/89ad1e59-b7bf-4373-85f9-609adecfa560)
 
