@@ -17,4 +17,5 @@ Given the tool's nature, users should be aware of potential legal consequences, 
 
 ![brave_6QPkIPymgE](https://github.com/SesameSeed-Debug/LLR-Logger/assets/151635094/89ad1e59-b7bf-4373-85f9-609adecfa560)
 
-![brave_iQSYswzO3o](https://github.com/SesameSeed-Debug/LLR-Logger/assets/151635094/a5f43662-856d-4b5b-bc78-406330b69da5)
+
+![brave_NurrJXm8au](https://github.com/SesameSeed-Debug/LLR-Logger/assets/151635094/2293c303-7a1c-42c3-b5d1-ce038cbcc950)
