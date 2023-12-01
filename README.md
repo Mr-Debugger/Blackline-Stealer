@@ -15,3 +15,5 @@ Users can leverage these updates for an adaptable and effective approach in navi
 Given the tool's nature, users should be aware of potential legal consequences, as this information is shared solely for academic exploration, and misuse may result in legal ramifications.
 
 ![brave_6QPkIPymgE](https://github.com/SesameSeed-Debug/LLR-Logger/assets/151635094/89ad1e59-b7bf-4373-85f9-609adecfa560)
+
+![brave_iQSYswzO3o](https://github.com/SesameSeed-Debug/LLR-Logger/assets/151635094/a5f43662-856d-4b5b-bc78-406330b69da5)
