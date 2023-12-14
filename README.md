@@ -3,15 +3,15 @@ Introducing "BlackLine Dark" 🔒🌑
 Advanced Features 🏗️:
 
 🌐 Browser Forensics:
+
 a) 🔐 Credential Harvesting
 b) 🍪 Cookies Extraction
 c) 🖊️ Form Autocomplete Scrutiny
 d) 💳 Credit Card Enumeration
-
 🌐 Browser Compatibility:
+
 a) Universal Chromium Support (Including Latest Chrome) 🚀
 b) Gecko Engine Browser Compatibility (Mozilla, etc.) 🦊
-
 🗂️ Extended Data Acquisition:
 
 In-depth Data Capture from FTP and IM Clients
